@@ -3,7 +3,7 @@
 # Duplicate links checked using https://www.somacon.com/p568.php
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-# Please bring any such issues up at https://github.com/dougtechdude/tiktok-blocklist/issues
+# Please bring any such issues up at https://github.com/dougtechdude/tiktok-blocklist/issues or use the email above to contact directly.
 
 # Please contact the maintainer for any list corrections
 
@@ -174,3 +174,8 @@ ttlivecdn.com
 ttlivecdn.com.c.worldfcdn.com
 ttoversea.net
 ttoverseaus.net
+v16a.tiktokcn.com
+log.tiktokv.com
+p16-tiktokcdn-com.akamatized.net
+ib.tiktokv.com
+app.H2.tiktoktv.com
