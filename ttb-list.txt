@@ -3,7 +3,7 @@
 # Duplicate links checked using https://www.somacon.com/p568.php
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-# Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
+# Please bring any such issues up at https://github.com/dougtechdude/tiktok-blocklist/issues
 
 # Please contact the maintainer for any list corrections
 
