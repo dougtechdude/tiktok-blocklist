@@ -4,11 +4,9 @@
 # Duplicate links checked using https://www.somacon.com/p568.php
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-# Please bring any such issues up at https://github.com/dougtechdude/tiktok-blocklist/issues or use the email above to contact directly.
+# Please bring any issues up at https://github.com/dougtechdude/tiktok-blocklist/issues
 
-# Please contact the me for any list corrections
-
-
+a2047.api10.akamai.net
 abtest-sg-tiktok.byteoversea.com
 abtest-va-tiktok.byteoversea.com
 api-h2.tiktokv.com
@@ -178,5 +176,6 @@ webcast.musical.ly
 www.bytedance.com
 www.musical.ly
 www.tiktok.com
+www.tiktok.com.edgesuite.net
 xlog-va.musical.ly
 xlog-va.tiktokv.com
