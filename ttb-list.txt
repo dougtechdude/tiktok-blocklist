@@ -1,11 +1,12 @@
-# TikTok-BLOCK, parsed and mirrored by dougie@duck.com
-# Updated 20MAY23
+# TikTok-BLOCK, parsed by dougtechdude
+# Updated 21MAY23
+# Alphabetized using https://wordcounter.net/alphabetize
 # Duplicate links checked using https://www.somacon.com/p568.php
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/dougtechdude/tiktok-blocklist/issues or use the email above to contact directly.
 
-# Please contact the maintainer for any list corrections
+# Please contact the me for any list corrections
 
 
 abtest-sg-tiktok.byteoversea.com
