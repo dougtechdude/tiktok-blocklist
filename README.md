@@ -8,4 +8,4 @@ Feel free to use to raw URL in your own blocklist, or in my case I'm using it wi
 
 Raw URL: https://raw.githubusercontent.com/dougtechdude/tiktok-blocklist/main/ttb-list.txt
 
-![South Park]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM5YzkzMmRjZTg3Y2I5NzcxZmZjMzI0OThhNjMwZWVmMjg0YjEwOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HW5O1V5ThSGYIF94lM/giphy.gif))
+![South Park](https://raw.githubusercontent.com/dougtechdude/tiktok-blocklist/main/tt-sp.gif)
